@@ -1,0 +1,19 @@
+[
+    {
+      "id": "P123",
+      "name": "John Doe",
+      "dob": "1980-02-14",
+      "notes": "Patient has a history of Type 2 Diabetes, recently prescribed Metformin and lifestyle changes.",
+      "medications": ["Metformin"],
+      "allergies": ["Penicillin"]
+    },
+    {
+      "id": "P456",
+      "name": "Jane Smith",
+      "dob": "1975-06-01",
+      "notes": "Hypertension diagnosed 5 years ago. On Lisinopril. Recent complaints of dizziness.",
+      "medications": ["Lisinopril"],
+      "allergies": []
+    }
+  ]
+  
